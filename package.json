@@ -1,0 +1,22 @@
+{
+  "name": "contactme",
+  "version": "1.0.0",
+  "description": "contact pwa app",
+  "main": "sw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cierra00/ClientOrganizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cierra00/ClientOrganizer/issues"
+  },
+  "homepage": "https://github.com/cierra00/ClientOrganizer#readme",
+  "dependencies": {
+    "firebase": "^10.6.0"
+  }
+}
